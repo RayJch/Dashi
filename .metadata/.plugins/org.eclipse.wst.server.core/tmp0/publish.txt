@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Tue May 31 20:29:34 PDT 2016
+org.eclipse.jst.jee.server\:Dashi=D\:\\Apache-tomcat-8.0.33-windows-x64\\apache-tomcat-8.0.33\\wtpwebapps\\Dashi
+org.eclipse.jst.jee.server\:Chihuo=D\:\\Apache-tomcat-8.0.33-windows-x64\\apache-tomcat-8.0.33\\wtpwebapps\\Chihuo
